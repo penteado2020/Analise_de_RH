@@ -1,5 +1,4 @@
 # Analise_de_RH
-
 ## Contexto e Conteúdo 
 
 Uma empresa que atua em Big Data e Data Science deseja contratar cientistas de dados entre pessoas que obtenham aprovação em alguns dos cursos ministrados pela empresa. Muitas pessoas se inscrevem para o treinamento. A empresa quer saber quais desses candidatos realmente querem trabalhar para a empresa após o treinamento ou à procura de um novo emprego, pois ajuda a reduzir o custo e o tempo, bem como a qualidade do treinamento ou planejamento dos cursos e categorização dos candidatos . Informações relacionadas à demografia, educação, experiência estão em mãos desde a inscrição e inscrição dos candidatos.
